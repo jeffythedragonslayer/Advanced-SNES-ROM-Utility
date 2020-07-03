@@ -2,7 +2,7 @@
 This is my personal SNES ROM Utility created in spare time!
 Its code is neither well organized nor sematically beautiful, but seems to work pretty well :D
 
-# Functions:
+# Functions
 
 - Add Header: Adds an empty header
 
@@ -35,7 +35,7 @@ Its code is neither well organized nor sematically beautiful, but seems to work 
                  running on systems with another region (PAL/NTSC lock).
                  Use this function to remove most known region locks.
 
-# Options:
+# Options
 - Auto fix ROM size: If enabled, it automatically fixes a wrong internal ROM
                      size on any further action. Disables 'Fix internal ROM size'
                      function under 'Edit/Fix header information'. If you only
